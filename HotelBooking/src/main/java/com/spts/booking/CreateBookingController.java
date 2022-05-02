@@ -34,6 +34,8 @@ public class CreateBookingController {
     	   return newBooking;
        }
 
+
+
 	   String json="";
 	   ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
 	   int result = createBooking.makeNewReservation(newBooking,user);

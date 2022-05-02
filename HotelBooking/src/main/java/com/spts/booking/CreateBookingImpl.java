@@ -57,11 +57,14 @@ public class CreateBookingImpl implements ICreateBooking {
 	private boolean roomsNotAvailable = false;
 	
 	public int makeNewReservation(Booking newBooking,User user) {
+	
 		List<User> testuser = new ArrayList<>();
 		List<Hotels> testhotel = new ArrayList<>();
 		String userDetailsQuery = "select * from user where id = ?"; 
 		String hotelDetailsQuery = "select * from hotels where hotel_id = ?";
 		String currentBookingIdQuery = "SELECT LAST_INSERT_ID()";
+		
+		
 		
 		if(user.getId() != newBooking.getUserId())
 			return 7777;
