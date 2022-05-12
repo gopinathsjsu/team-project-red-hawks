@@ -2,8 +2,11 @@
 
 # Team Members
 Anupriya Rentala
+
 Divya Khiani
+
 Nitsimran Singh
+
 Sachith Gandham
 
 # XP Core Values Implemented
@@ -18,14 +21,20 @@ Sachith Gandham
 
 # Tools and Technology Used
 Frontend : HTML5, CSS
+
 Backend : Java Script and Spring Boot
+
 Database : MySQL (Amazon RDS and MySQL WorkBench)
-Deployment : Amazon EC2 Autoscaled cluster with Load balancing
+
+Deployment : Amazon EC2 Autoscaled cluster with Load balancing - [LINK](http://ec2-18-144-53-161.us-west-1.compute.amazonaws.com/)
 
 # Tasks
 Front End : Nitsimran Singh, Sachith Gandham
+
 Back End : Anupriya Rentala, Divya Khiani
+
 Deployment : Anupriya Rentala, Sachith Gandham
+
 DataBase : Divya Khiani, Nitsimran Singh
 
 # Scrum Meetings
