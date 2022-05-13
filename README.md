@@ -38,10 +38,22 @@ Deployment : Anupriya Rentala, Sachith Gandham
 DataBase : Divya Khiani, Nitsimran Singh
 
 # Scrum Meetings
-Thursdays and Mondays 
+Thursdays 5pm-5:30pm 
 
 # Architecture Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/architecture_diagram.jpg)
+
+# Deployment
+
+## EC 2 Instance
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/ec2.jpg)
+
+## AutoScaling Group
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/autoScaling.jpg)
+
+## Load balancer
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/loadBalancer.jpg)
+
  
 # TechStack
 HTML5, CSS, JS, Spring Boot
