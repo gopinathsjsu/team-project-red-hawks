@@ -46,13 +46,13 @@ Thursdays 5pm-5:30pm
 # Deployment
 
 ## EC 2 Instance
-![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/ec2.jpg)
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/ec2.png)
 
 ## AutoScaling Group
-![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/autoScaling.jpg)
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/autoScaling.png)
 
 ## Load balancer
-![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/loadBalancer.jpg)
+![alt text](https://github.com/gopinathsjsu/team-project-red-hawks/blob/main/documentation/loadBalancer.png)
 
  
 # TechStack
